@@ -1,0 +1,9 @@
+{
+    "solutions": [
+        {"id": 1, "word": "weird"},
+        {"id": 2, "word": "audio"},
+        {"id": 3, "word": "crane"},
+        {"id": 4, "word": "crook"},
+        {"id": 5, "word": "hello"}
+    ]
+}
